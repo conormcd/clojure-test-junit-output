@@ -20,6 +20,8 @@ fixture like so:
 (clojure.test/use-fixtures :once (with-junit-output "/where/you/want.xml"))
 ```
 
+See `clojure-test-junit-output.test-core` for a complete example.
+
 ## License
 
 This library is distributed under a two clause BSD-style license. See the
